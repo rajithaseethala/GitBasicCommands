@@ -1,0 +1,9 @@
+This is my first file that i created in the local repository by 
+"$touch info.txt"
+it created the file info.txt and i did
+"$git status"
+it said that it is on master branch and no commits yet
+and showed untracked files which is info.txt and that is in staging area
+so now i am going to say commit on the bash to add this file to the master branch
+i.e i will go and say
+$git commit
